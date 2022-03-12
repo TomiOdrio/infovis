@@ -1,0 +1,6 @@
+stacked graph
+q-q plots
+scatter plot matrix
+flow maps
+squarified treemaps
+matrix view
